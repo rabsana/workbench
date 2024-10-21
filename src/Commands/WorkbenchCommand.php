@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Rabsana\Workbench\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class WorkbenchCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'workbench';
 
     public $description = 'My command';
 
