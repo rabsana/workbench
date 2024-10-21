@@ -34,14 +34,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Rabsana\\Workbench\\": "src/",
-            "Rabsana\\Workbench\\Database\\Factories\\": "database/factories/"
+            "Rabsana\\Workbench\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Rabsana\\Workbench\\Tests\\": "tests/",
-            "Workbench\\App\\": "workbench/app/"
+            "Rabsana\\Workbench\\Tests\\": "tests/"
         }
     },
     "scripts": {
