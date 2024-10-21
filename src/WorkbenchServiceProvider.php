@@ -4,7 +4,6 @@ namespace Rabsana\Workbench;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Rabsana\Workbench\Commands\WorkbenchCommand;
 
 class WorkbenchServiceProvider extends PackageServiceProvider
 {
